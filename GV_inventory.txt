@@ -1,0 +1,13 @@
+type,equivelent_ev_name,price,min_seats,fuel_cost/100km,base_upkeep_cost/100km 
+Sedan,Chevrolet Bolt EV,31500,Minimum seats:    5 seats,14.12,6.5
+Sedan,Nissan LEAF,28500,Minimum seats:    5 seats,14.11,6.2
+Sedan,BMW 14 eDrive40,41900,Minimum seats:    5 seats,14.18,6.9
+Sedan,BMW 2 LongRange Single Montor,41200,Minimum seats:    5 seats,14.17,7.1
+Sedan,2 Long Range Dual Motor,43800,Minimum seats:    5 seats,14.20,7.15
+Sedan,Tesla Model 3 RWD,49999,Minimum seats:    5 seats,14.24,7.2
+Minivan,Nissan LEAF,25460,Minimum seats:    5 seats,14.27,6.98
+Minivan,Mazda MX-30 EV,28960,Minimum seats:    5 seats,14.31,7.0
+Minivan,Ford Mustang Mach E Standard Range,40225,Minimum seats:    5 seats,14.35,7.1
+Minivan,Hyundai IONIQ 5 Long Range RWD,40199,Minimum seats:    5 seats,14.36,7.15,
+Minivan,Polestar 2 Long Range Dual Motor,47790,Minimum seats:    5 seats,14.37,7.2
+Minivan,Tesla Model 3 Long Range AWD,49899,Minimum seats:    5 seats,14.38,7.35

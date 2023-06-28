@@ -1,0 +1,32 @@
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: BMW 14 eDrive40;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: BMW 14 eDrive40;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: BMW 2 LongRange Single Montor;false
+Vehicle Type: Sedan;Price Range: Over $60,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: Tesla Model 3 RWD;false
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: BMW 14 eDrive40;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: BMW 14 eDrive40;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: BMW 14 eDrive40;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: BMW 14 eDrive40;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual Mileage: 10,000 - 15,000;Preferred EV Type: BMW 14 eDrive40;true
+Vehicle Type: Sedan;Price Range: Under $40,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: Chevrolet Bolt EV;true
+Vehicle Type: Sedan;Price Range: Under $40,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: Chevrolet Bolt EV;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: BMW 14 eDrive40;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: BMW 14 eDrive40;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual Mileage: 5,000 - 10,000;Preferred EV Type: BMW 14 eDrive40;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual kilometrage: 15,000 - 20,000;Preferred EV Type: BMW 2 LongRange Single Montor;false
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual kilometrage: 10,000 - 15,000;Preferred EV Type: BMW 2 LongRange Single Montor;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual kilometrage: 10,000 - 15,000;Preferred EV Type: BMW 2 LongRange Single Montor;false
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual kilometrage: 15,000 - 20,000;Preferred EV Type: BMW 2 LongRange Single Montor;true
+Vehicle Type: Sedan;Price Range: Under $40,000;Estimated Anual kilometrage: 15,000 - 20,000;Preferred EV Type: Nissan LEAF;false
+Vehicle Type: Sedan;Price Range: Over $60,000;Estimated Anual kilometrage: 30,000 - 40,000;Preferred EV Type: Tesla Model 3 RWD;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual kilometrage: 15,000 - 20,000;Preferred EV Type: BMW 14 eDrive40;true
+Vehicle Type: Sedan;Price Range: Under $40,000;Estimated Anual kilometrage: 20,000 - 25,000;Preferred EV Type: Chevrolet Bolt EV;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual kilometrage: 15,000 - 20,000;Preferred EV Type: 2 Long Range Dual Motor;true
+Vehicle Type: Sedan;Price Range: Under $40,000;Estimated Anual kilometrage: 5,000 - 10,000;Preferred EV Type: Chevrolet Bolt EV;true
+Vehicle Type: Sedan;Price Range: Under $40,000;Estimated Anual kilometrage: 5,000 - 10,000;Preferred EV Type: Chevrolet Bolt EV;false
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual kilometrage: 20,000 - 25,000;Preferred EV Type: BMW 2 LongRange Single Montor;true
+Vehicle Type: Sedan;Price Range: $40,000 - $ 60,000;Estimated Anual kilometrage: 15,000 - 20,000;Preferred EV Type: BMW 2 LongRange Single Montor;true
+Vehicle Type: Sedan;Price Range: Over $60,000;Estimated Anual kilometrage: 20,000 - 25,000;Preferred EV Type: Tesla Model 3 RWD;false
+Vehicle Type: Minivan;Price Range: Over $60,000;Estimated Anual kilometrage: 25,000 - 30,000;Preferred EV Type: Tesla Model 3 Long Range AWD;true
+Vehicle Type: Minivan;Price Range: Over $60,000;Estimated Anual kilometrage: 30,000 - 40,000;Preferred EV Type: Tesla Model 3 Long Range AWD;false
+Vehicle Type: Sedan;Price Range: Under $40,000;Estimated Anual kilometrage: 5,000 - 10,000;Preferred EV Type: Chevrolet Bolt EV;true
+Vehicle Type: Sedan;Price Range: Over $60,000;Estimated Anual kilometrage: 30,000 - 40,000;Preferred EV Type: Tesla Model 3 RWD;false

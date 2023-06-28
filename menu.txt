@@ -1,0 +1,56 @@
+[MENU_APPLICATION_LOAD_START][BlueColor]
+**********************************************************************
+*                                                                    * 
+*                            EV Companion                            * 
+*                                                                    *
+*  Governments around the world are encouraging the purchase of      *
+*  electric cars in order to reduce greenhouse gas emissions, air    * 
+*  pollution and fight climate change. Many countries offer a        *
+*  purchase incentive for every EV bought.                           *
+*                                                                    *
+*  This application generates a list of electrical vehicles based    *
+*  on the users' input for vehicle type, expected price range        * 
+*  and annual kilometrage. It then calculates & compares costs of    * 
+*  the selected electrical and its equivalent gasoline vehicles in   *
+*  multiple attributes including purchase cost, fuel costs and       *
+*  upkeep costs.                                                     *
+*                                                                    *
+*  The application also records the users's purchase preference      *
+*  between EV and GV. This data may be used by the government or     *
+*  non-profit agencies to track carbon emit control potential from   *
+*  the automobile sector, and review any incentives or rebate        *
+*  policies for EV                                                   *
+*                                                                    * 
+*********************************************************************
+[ColorEnd][MENU_APPLICATION_LOAD_END]
+
+[MENU_VEHICLE_TYPE_START]=============================================
+ [BlueColor]What type of vehicle are you interested in?[ColorEnd]
+
+    1 Sedan[ColorEnd]     
+    2 Minivan  
+    3 Exit
+==============================================[MENU_VEHICLE_TYPE_END]
+
+[MENU_PRICE_RANGE_START]=============================================
+ [BlueColor]What price range are you looking for?[ColorEnd]
+
+    1 Under $40,000
+    2 $40,000 - $ 60,000
+    3 Over $60,000
+    4 Back to previous menu
+    5 Exit
+ ==============================================[MENU_PRICE_RANGE_END]
+
+[MENU_ANUAL_KILOMETRAGE_START]=============================================
+ [BlueColor]What's your estimated annual travel in kilometer?[ColorEnd]
+
+    1 5,000 - 10,000 
+    2 10,000 - 15,000 
+    3 15,000 - 20,000 
+    4 20,000 - 25,000
+    5 25,000 - 30,000
+    6 30,000 - 40,000
+    7 Back to previous menu
+    8 Exit
+ ==============================================[MENU_ANUAL_KILOMETRAGE_END]

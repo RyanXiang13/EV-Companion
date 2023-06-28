@@ -1,0 +1,13 @@
+type,name,price,electric_range,min_seats,rebate,fuel_cost/100km,battery_cost,other_cost/100km
+Sedan,Chevrolet Bolt EV,38198,Electric range    417 km,Minimum seats:    5 seats,3000,2.12,9500,0.25
+Sedan,Nissan LEAF,33750,Electric range    240 km,Minimum seats:    5 seats,2500,2.11,8900,0.24
+Sedan,BMW 14 eDrive40,54900,Electric range    484 km,Minimum seats:    5 seats,4600,2.17,15000,0.26
+Sedan,BMW 2 LongRange Single Montor,53950,Electric range    435 km,Minimum seats:    5 seats,4500,2.15,14750,0.26
+Sedan,2 Long Range Dual Motor,58950,Electric range    418 km,Minimum seats:    5 seats,4700,2.18,15600,0.26
+Sedan,Tesla Model 3 RWD,61980,Electric range    418 km,Minimum seats:    5 seats,6500,2.21,17000,0.27
+Minivan,Nissan LEAF,33750,Electric range    418 km,Minimum seats:    5 seats,2500,2.25,13000,0.27
+Minivan,Mazda MX-30 EV,39950,Electric range  161 km,Minimum seats:    5 seats,3000,2.27,13500,0.275
+Minivan,Ford Mustang Mach E Standard Range,51495,Electric range    397 km,Minimum seats:    5 seats,4500,2.31,14699,0.265
+Minivan,Hyundai IONIQ 5 Long Range RWD,51999,Electric range    488 km,Minimum seats:    5 seats,4500,2.32,14500,0.28
+Minivan,Polestar 2 Long Range Dual Motor,59500,Electric range    418 km,Minimum seats:    5 seats,6000,2.33,16900,0.28
+Minivan,Tesla Model 3 Long Range AWD,61980,Electric range    576 km,Minimum seats:    5 seats,6100,2.34,17500,0.28
